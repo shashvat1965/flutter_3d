@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "617111091762",
+    "firebase_url": "https://oasis-2022-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "oasis-2022",
+    "storage_bucket": "oasis-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617111091762:android:c462ae2054339bc2e15a2b",
+        "android_client_info": {
+          "package_name": "com.dvm.oasis2k22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617111091762-4h9n6l6b2cfi55s5c9dhjnn7neeqgkem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dvm.oasis2k22",
+            "certificate_hash": "b40cd0a017e4854bc5aeb7975d7bb628d423d164"
+          }
+        },
+        {
+          "client_id": "617111091762-7ag0d35pr0qerapnbjtvhvscltbo5441.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dvm.oasis2k22",
+            "certificate_hash": "de8d838d8d584f8c149d9611a5913790a51b3a66"
+          }
+        },
+        {
+          "client_id": "617111091762-ki07bhtdbhpju11u4ohoo5dkbtek0jpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dvm.oasis2k22",
+            "certificate_hash": "ea4acb39be08b9f6d734b6fdcaf36a366638f42f"
+          }
+        },
+        {
+          "client_id": "617111091762-qnobj1t50fob2e9lh8qn2kor7ip4p6mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dvm.oasis2k22",
+            "certificate_hash": "06e8a5601e6e96c37bd10161873e8d72dd78c525"
+          }
+        },
+        {
+          "client_id": "617111091762-vbgq32pbsq3jimctcplcchtuhqk0suus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTX-JOWiXoQGBrzqcGus4y5K9tt7tdnX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617111091762-vbgq32pbsq3jimctcplcchtuhqk0suus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617111091762-0pjv3pu76j922e1q6hu11rrdsb28be52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dvm.scanner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617111091762:android:80d76d9ae6e9ff21e15a2b",
+        "android_client_info": {
+          "package_name": "com.dvm.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617111091762-vbgq32pbsq3jimctcplcchtuhqk0suus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTX-JOWiXoQGBrzqcGus4y5K9tt7tdnX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617111091762-vbgq32pbsq3jimctcplcchtuhqk0suus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617111091762-0pjv3pu76j922e1q6hu11rrdsb28be52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dvm.scanner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617111091762:android:d0ade486720f8cfce15a2b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_3d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617111091762-vbgq32pbsq3jimctcplcchtuhqk0suus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTX-JOWiXoQGBrzqcGus4y5K9tt7tdnX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617111091762-vbgq32pbsq3jimctcplcchtuhqk0suus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617111091762-0pjv3pu76j922e1q6hu11rrdsb28be52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dvm.scanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
